@@ -1,0 +1,1 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20pl_name%2Chostname%2Cra%2Cdec%2Cpl_orbper%2Cpl_tranmid%2Cpl_trandep%2Cpl_trandur%2Csy_kepmag%2Cpl_rade%20from%20ps%20where%20default_flag%3D1%20and%20disc_facility%3D%27K2%27%20and%20ra%20between%205%20and%2025%20and%20dec%20between%20-12%20and%2012

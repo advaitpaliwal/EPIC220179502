@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "EPIC 220179502.01: a 1.2 Earth-radius planet candidate on a 6.6-day orbit around an M dwarf from K2 Campaign 8"
+message: "If you use this candidate or data, please cite it as below."
+authors:
+  - family-names: Paliwal
+    given-names: Advait
+    email: advaitpaliwal@gmail.com
+date-released: 2026-10-13
+license: CC-BY-4.0

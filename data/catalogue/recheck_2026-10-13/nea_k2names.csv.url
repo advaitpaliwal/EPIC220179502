@@ -1,0 +1,2 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20%2A%20from%20k2names%20where%20epic_id%20like%20%27%25220179502%25%27
+fetched 2026-10-13T05:48:11.413684Z

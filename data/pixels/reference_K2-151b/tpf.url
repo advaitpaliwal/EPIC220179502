@@ -1,0 +1,1 @@
+MAST via lightkurve.search_targetpixelfile('EPIC 220621087', mission='K2', campaign=8)

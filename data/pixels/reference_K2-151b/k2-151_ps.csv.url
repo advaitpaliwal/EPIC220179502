@@ -1,0 +1,1 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20pl_name%2Cpl_orbper%2Cpl_tranmid%2Cpl_trandep%2Cpl_trandur%2Cpl_ratror%2Cpl_ratdor%2Cpl_imppar%2Cpl_refname%20from%20ps%20where%20hostname%3D%27K2-151%27

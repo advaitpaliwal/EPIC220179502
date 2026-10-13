@@ -1,0 +1,4 @@
+Eumemic exoplanet candidate lists (github.com/eumemic/exoplanets), checked 2026-10-13 at commit 2c94635e76d5b067558cd4b746fefe0ac074e8d7 (committed 2026-10-13T05:13:42Z).
+All 29 files in results_public/ (listed in eumemic_files.txt; 48.2 MB) were downloaded and searched for TIC 423360694, EPIC 220179502 and Gaia DR3 2535800235461780864: 0 matches in every file.
+candidates/ (77 candidate folders, named TIC<id>_P<period>): no folder for TIC 423360694.
+The lists are keyed by TIC ID and carry no coordinate columns, so no separate cone match was possible.

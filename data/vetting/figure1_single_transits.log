@@ -1,0 +1,10 @@
+sigma per cadence (MAD, OOT) ppm 458
+full-coverage transits 6
+epoch -5 tc 2565.5127 depth 539 err 281 S/N 1.92 n_in 4
+epoch -3 tc 2578.6989 depth 1284 err 281 S/N 4.58 n_in 4
+epoch -2 tc 2585.2920 depth 896 err 280 S/N 3.20 n_in 4
+epoch 0 tc 2598.4782 depth 725 err 282 S/N 2.58 n_in 3
+epoch 3 tc 2618.2575 depth 629 err 282 S/N 2.23 n_in 3
+epoch 4 tc 2624.8506 depth 654 err 281 S/N 2.33 n_in 4
+zoomed epochs [-5 -2  0  4]
+wrote fig/figure1_EPIC220179502.png size in [3.45 6.6 ]

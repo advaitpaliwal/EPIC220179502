@@ -1,0 +1,4 @@
+!! 'PM I00592-0048' this identifier has an incorrect format for catalog:
+	PM : Proper Motion
+
+ query string: PM I00592-0048

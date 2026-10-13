@@ -1,0 +1,5 @@
+pl_name,pl_orbper,pl_tranmid,pl_trandep,pl_trandur,pl_ratror,pl_ratdor,pl_imppar,pl_refname
+"K2-151 b",3.83547600000,2457395.23735000,,,0.03030000,17.360000,0.440000,"<a refstr=LIVINGSTON_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018AJ....156..277L/abstract target=ref>Livingston et al. 2018</a>"
+"K2-151 b",3.83537600000,2457395.23812000,,1.5408000,0.02990000,,0.520000,"<a refstr=PETIGURA_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018AJ....155...21P/abstract target=ref>Petigura et al. 2018</a>"
+"K2-151 b",3.83553000000,2457395.23820000,0.09830000,1.6392000,0.03010000,15.600000,,"<a refstr=KRUSE_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K/abstract target=ref>Kruse et al. 2019</a>"
+"K2-151 b",3.83559200000,2457391.40166000,,,0.02890000,18.400000,,"<a refstr=HIRANO_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018AJ....155..127H/abstract target=ref>Hirano et al. 2018</a>"

@@ -1,0 +1,6 @@
+Web searches run 2026-10-13 (UTC) for EPIC 220179502 / TIC 423360694 / Gaia DR3 2535800235461780864 / PM I00592-0048.
+1) WebSearch: "EPIC 220179502" OR "TIC 423360694" OR "2535800235461780864" OR "PM I00592-0048"
+   -> no result mentions any of the four IDs. Hits: arxiv.org/pdf/2312.06035 (EPIC 220204960), arxiv.org/pdf/2303.14275, en.wikipedia.org/wiki/K2-296b, arxiv.org/pdf/2504.12239, arxiv.org/pdf/2111.14883, arxiv.org/pdf/2110.15086 (EPIC 220208795), plus unrelated "Epic" company pages.
+2) Exa web_search_exa: "EPIC 220179502 K2 campaign 8 planet candidate transit TIC 423360694"
+   -> no result mentions any of the IDs. Hits: iopscience 10.3847/1538-4365/ab346b (Kruse+2019, C0-8, Kp 9-15 search range), exoplanetarchive overview EPIC 220650843.01, iopscience 10.3847/1538-3881/153/2/82 (EPIC 220674823), kvmexoweb K2Mission docs, iopscience 10.3847/1538-3881/aa9b83 (Petigura+2018 C5-8), aanda aa42063-21 (EPIC 220208795), b2find Kruse+2019 dataset, exoplanetarchive k2-106 b, iopscience 10.3847/1538-3881/aae778 (Livingston+2018), ar5iv 1909.12417.
+Earlier search (k2-deep/220179502/catalogue/web_search_log.txt, 2026-10-12): same result, no page mentions the ID.
